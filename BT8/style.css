@@ -1,0 +1,38 @@
+.box{
+    
+    border-radius: 15px;
+    border: 1px solid ;
+    width: 800px;
+    
+}
+.span{
+    margin-left: 750px;
+}
+
+
+.box-1{
+background-color: rgb(187, 234, 245);
+color: rgb(20, 107, 183);
+padding:5px 20px;
+border-top-right-radius:  15px;
+border-top-left-radius: 15px;
+border-bottom: 1px solid;
+
+}
+
+.box-2{
+    margin: 0 20px;
+}
+
+.box-2 span {
+    font-weight: 100 ;
+
+}
+
+.box-3 {
+    margin: 5px 20px;
+    border-top: 1px solid;
+}   
+.span1{
+    color: rgb(75, 23, 75);
+}

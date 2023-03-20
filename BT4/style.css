@@ -1,0 +1,25 @@
+.box{
+    width: 300px;
+    margin: auto auto;
+}
+.border1 {
+    padding: 15px 30px;
+    border: 1px solid ;
+    border-top: none;
+    margin-top: -10px;
+    margin-bottom: -15px;
+}
+.border {
+    padding: 15px 30px;
+    border: 1px solid ;
+    border-top: none;
+    margin-top: -10px;
+    margin-bottom: -15px;
+}
+.border2 {
+    padding: 15px 30px;
+    border: 1px solid ;
+    border-top: none;
+    margin-top: -10px;
+    margin-bottom: -15px;
+}

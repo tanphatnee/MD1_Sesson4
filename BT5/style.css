@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    text-align: center;
+    border: 1px solid #333;
+    margin-bottom: 20px;
+} 
+.box1 {
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+}
+.btn{
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.heading{
+    background-color: rgb(202, 200, 197);
+    padding: 10px 0;
+    border-bottom: 1px solid #333;
+}

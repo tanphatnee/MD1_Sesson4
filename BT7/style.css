@@ -1,0 +1,24 @@
+span {
+    font-family: sans-serif;
+    margin-left: 300px;
+}
+.btn{
+    margin-left: 270px;
+    background-color: rgb(115, 195, 242);
+    color: aliceblue;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.box{
+    text-align: center;
+   border: 1px solid #a3a8a8;
+   width: 450px;
+   border-radius: 5px;
+} 
+
+.box2 {
+    border-top: 1px solid #8f9494;
+    border-bottom: 1px solid #b5baba;
+    padding: 0 20px;
+}
